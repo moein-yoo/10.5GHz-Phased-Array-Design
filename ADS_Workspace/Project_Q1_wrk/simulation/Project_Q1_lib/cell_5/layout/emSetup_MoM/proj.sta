@@ -1,0 +1,135 @@
+==============================================================================
+
+                  ------ MOMENTUM STATISTICS (RF mode) ------
+
+              Momentum MomEngine_64 2025.00.341 (*) built: Aug 19 2024
+                           Wed Aug  5 18:41:40 2026
+
+==============================================================================
+
+
+------------------------------------------------------------------------------
+MESH
+------------------------------------------------------------------------------
+ Frequency          : 11 GHz
+
+ Rectangular cells  : 448
+ Quadrangular cells : 428
+ Triangular cells   : 241
+ Via cells          : 0
+
+ Edge currents      : 1612
+
+------------------------------------------------------------------------------
+SOLVER                        USER TIME      ELAPSED TIME      MEMORY         
+PROCESSES                      (h:m:s)          (h:m:s)         (MB)          
+------------------------------------------------------------------------------
+
+SIMULATION SET-UP
+-----------------
+ Initialization           |     0: 0: 0   |     0: 0: 0   |     34.64   
+ Ports analysis           |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Mesh processing          |     0: 0: 0   |     0: 0: 1   |      6.20   
+
+ Matrix size : 1612
+ Reduced matrix size : 745
+ Estimated process size is below 256.00 MB
+
+ Simulation temperature : 298.15 K
+
+1. SIMULATION FREQUENCY = 10 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      1.07   
+ Basis creation           |     0: 0: 0   |     0: 0: 0   |     20.56   
+
+QUASI-STATIC CALCULATIONS
+-------------------------
+ Matrix load              |     0: 0: 4   |     0: 0: 1   |     52.66   
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      3.26   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.14   
+ Data storage             |     0: 0: 0   |     0: 0: 0   |      0.53   
+
+2. SIMULATION FREQUENCY = 10.1 GHz 
+-------------------------
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.05   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Data storage             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+3. SIMULATION FREQUENCY = 10.2 GHz 
+-------------------------
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 1   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Data storage             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+4. SIMULATION FREQUENCY = 10.3 GHz 
+-------------------------
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Data storage             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+5. SIMULATION FREQUENCY = 10.4 GHz 
+-------------------------
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Data storage             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+6. SIMULATION FREQUENCY = 10.5 GHz 
+-------------------------
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Data storage             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+7. SIMULATION FREQUENCY = 10.6 GHz 
+-------------------------
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 1   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Data storage             |     0: 0: 0   |     0: 0: 0   |      0.01   
+
+8. SIMULATION FREQUENCY = 10.7 GHz 
+-------------------------
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Data storage             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+9. SIMULATION FREQUENCY = 10.8 GHz 
+-------------------------
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Data storage             |     0: 0: 0   |     0: 0: 0   |      0.06   
+
+10. SIMULATION FREQUENCY = 10.9 GHz 
+-------------------------
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Data storage             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+11. SIMULATION FREQUENCY = 11 GHz 
+-------------------------
+ Matrix load              |     0: 0: 0   |     0: 0: 1   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Data storage             |     0: 0: 0   |     0: 0: 0   |      0.05   
+
+------------------------------------------------------------------------------
+TOTALS
+------------------------------------------------------------------------------
+ Nr of Frequencies   : 11 
+
+ Physical memory :   119.29 MB
+ Virtual memory  :   127.33 MB
+ Page faults     :       31061
+ User Time       :    0h 0m 5s
+ Elapsed Time    :    0h 0m 5s
+
+==============================================================================
+

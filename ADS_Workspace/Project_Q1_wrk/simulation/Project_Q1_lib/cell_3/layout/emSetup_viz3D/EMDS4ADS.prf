@@ -1,0 +1,51 @@
+Begin_Block  Header 
+  
+  Mode  ASCII 
+  File_Name  "F:/Darsi/EM Lab/Project_Q1_wrk/simulation/Project_Q1_lib/cell_3/layout/emSetup_viz3D/EMDS4ADS.prf" 
+  Version  3.00 
+  
+End_Block  Header 
+
+Begin_Block  Data 
+  
+  Begin_Preferences 
+  
+  Begin_Material_Block 
+  Material cond     1.0000000000000000e+00      0.0000000000000000e+00      0.0000000000000000e+00  
+  Material __SubstrateLayer1     1.0000000000000000e+00      0.0000000000000000e+00      1.0000000000000000e+00  
+  Material __BOTTOM     0.0000000000000000e+00      0.0000000000000000e+00      1.0000000000000000e+00  
+  End_Material_Block 
+  
+  Begin_Color_Block 
+  Object __SubstrateLayer1_1     1.0000000000000000e+00      0.0000000000000000e+00      1.0000000000000000e+00  
+  Object __BOTTOM_2     0.0000000000000000e+00      0.0000000000000000e+00      1.0000000000000000e+00  
+  Object cond_3     1.0000000000000000e+00      0.0000000000000000e+00      0.0000000000000000e+00  
+  End_Color_Block 
+  
+  Begin_Visible_Block 
+  Object __SubstrateLayer1_1 1  0  80  
+  Object __BOTTOM_2 1  1  50  
+  Object cond_3 1  1  50  
+  End_Visible_Block 
+  
+  Begin_Plane_Block 
+  Planes 0  
+  End_Plane_Block 
+  
+  Begin_Camera_Block 
+  Position     7.9466162109375000e+02     -5.1779290771484375e+02      9.7265600585937500e+02  
+  Target     3.7685012817382812e+00      1.4999504089355469e+01      1.3818583488464355e+01  
+  Up    -4.5845010876655579e-01      5.6056034564971924e-01      6.8963450193405151e-01  
+      5.4092498779296875e+02      5.4092498779296875e+02  
+  End_Camera_Block 
+  
+  Begin_Background_Block 
+  Top_Color     0.0000000000000000e+00      0.0000000000000000e+00      0.0000000000000000e+00  
+  Bottom_Color     0.0000000000000000e+00      0.0000000000000000e+00      0.0000000000000000e+00  
+  Shadow 0  
+  End_Background_Block 
+  
+  End_Preferences 
+  
+End_Block  Data 
+
