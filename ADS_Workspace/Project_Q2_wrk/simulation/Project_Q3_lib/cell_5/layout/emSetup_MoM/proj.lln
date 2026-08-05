@@ -1,0 +1,21 @@
+BEGIN_SUBSTRATE
+5 __SubstrateLayer1
+4 __SubstrateLayer2
+3 __SubstrateLayer3
+2 __SubstrateLayer4
+1 __SubstrateLayer5
+0 __TOP
+END_SUBSTRATE
+BEGIN_MASK
+11 demo_dummy
+10 BVia
+9 Via_Pass
+8 M2
+7 Via1_2
+6 M1
+5 Via0_1
+4 M0
+3 Via_Nit1
+2 nicr
+1 mesa
+END_MASK

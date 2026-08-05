@@ -1,0 +1,22 @@
+
+hpeesofsim (*) 610.shp Aug 20 2024, MINT version 5
+    (64-bit windows built: Tue Aug 20, 2024 21:40:41 +0000)
+
+
+***** Simulation started at Sat Aug  1 22:26:26 2026
+      Running on host: "DESKTOP-HPRSNA5"
+      In Directory: "F:\Darsi\EM Lab\Project_Q2_wrk\data"
+      Process ID: 15560
+
+
+CT Sweep1[1] <Project_Q3_lib:cell_5:schematic>   state=(0->1)
+
+SP Sweep1[1].SP1[1/2] <Project_Q3_lib:cell_5:schematic>  state=0  freq=(10.25 GHz->10.75 GHz)
+
+
+SP Sweep1[1].SP1[2/2] <Project_Q3_lib:cell_5:schematic>  state=1  freq=(10.25 GHz->10.75 GHz)
+
+
+Resource usage:
+  Total stopwatch time     =     0.64 seconds.
+

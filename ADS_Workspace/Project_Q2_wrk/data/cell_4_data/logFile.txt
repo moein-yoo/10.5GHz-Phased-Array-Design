@@ -1,0 +1,50 @@
+
+hpeesofsim (*) 610.shp Aug 20 2024, MINT version 5
+    (64-bit windows built: Tue Aug 20, 2024 21:40:41 +0000)
+
+
+***** Simulation started at Wed Aug  5 15:05:37 2026
+      Running on host: "DESKTOP-HPRSNA5"
+      In Directory: "F:\Darsi\EM Lab\Project_Q2_wrk\data"
+      Process ID: 22368
+
+
+CT Sweep2[1] <Project_Q3_lib:cell_4:schematic>   state=(0->7)
+Pt DC convergence is used.
+
+SP Sweep2[1].SP1[1/8] <Project_Q3_lib:cell_4:schematic>  state=0  freq=(10.25 GHz->10.75 GHz)
+Warning detected by hpeesofsim during SP analysis `SP1'.
+    The DC (0 Hz) value has not been specified in the Touchstone file
+    'C:/program files/keysight/ads2025/examples/designkit/demokit_non_linear/demokit_non_linear_v2.0/circuit/data/demo_BP.s2p'.
+
+Warning detected by hpeesofsim during SP analysis `SP1'.
+    Data in the Touchstone file `C:/program files/keysight/ads2025/examples/designkit/demokit_non_linear/demokit_non_linear_v2.0/circuit/data/demo_BP.s2p'
+    does not cover the requested value of `freq'.
+    Therefore, the required data was obtained by extrapolation.
+
+
+
+SP Sweep2[1].SP1[2/8] <Project_Q3_lib:cell_4:schematic>  state=1  freq=(10.25 GHz->10.75 GHz)
+
+
+SP Sweep2[1].SP1[3/8] <Project_Q3_lib:cell_4:schematic>  state=2  freq=(10.25 GHz->10.75 GHz)
+
+
+SP Sweep2[1].SP1[4/8] <Project_Q3_lib:cell_4:schematic>  state=3  freq=(10.25 GHz->10.75 GHz)
+
+
+SP Sweep2[1].SP1[5/8] <Project_Q3_lib:cell_4:schematic>  state=4  freq=(10.25 GHz->10.75 GHz)
+
+
+SP Sweep2[1].SP1[6/8] <Project_Q3_lib:cell_4:schematic>  state=5  freq=(10.25 GHz->10.75 GHz)
+
+
+SP Sweep2[1].SP1[7/8] <Project_Q3_lib:cell_4:schematic>  state=6  freq=(10.25 GHz->10.75 GHz)
+
+
+SP Sweep2[1].SP1[8/8] <Project_Q3_lib:cell_4:schematic>  state=7  freq=(10.25 GHz->10.75 GHz)
+
+
+Resource usage:
+  Total stopwatch time     =     1.08 seconds.
+

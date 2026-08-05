@@ -1,0 +1,31 @@
+
+hpeesofsim (*) 610.shp Aug 20 2024, MINT version 5
+    (64-bit windows built: Tue Aug 20, 2024 21:40:41 +0000)
+
+
+***** Simulation started at Wed Aug  5 22:49:18 2026
+      Running on host: "DESKTOP-HPRSNA5"
+      In Directory: "F:\Darsi\EM Lab\Project_Q2_wrk\data"
+      Process ID: 16544
+
+
+CT Sweep1[1] <Project_Q3_lib:cell_6:schematic>   state=(0->1)
+Pt DC convergence is used.
+Warning detected by hpeesofsim during TRAN analysis `_4_._6_'.
+    COMPONENT `X1.em_data':
+       Simulator uses frequency lower than frequency range of model. The S-parameters are extrapolated.
+
+Warning detected by hpeesofsim during TRAN analysis `_4_._6_'.
+    COMPONENT `X1.em_data':
+       S-parameter passivity is enforced.
+
+
+SP Sweep1[1].SP1[1/2] <Project_Q3_lib:cell_6:schematic>  state=0  freq=(10.25 GHz->10.75 GHz)
+
+
+SP Sweep1[1].SP1[2/2] <Project_Q3_lib:cell_6:schematic>  state=1  freq=(10.25 GHz->10.75 GHz)
+
+
+Resource usage:
+  Total stopwatch time     =    14.86 seconds.
+
