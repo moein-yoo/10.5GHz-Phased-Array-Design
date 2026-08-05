@@ -1,0 +1,63 @@
+; Top Design: "Project_Q3_lib:45:schematic"
+; Netlisted using Hierarchy Policy: "Standard"
+
+Options ResourceUsage=yes UseNutmegFormat=no EnableOptim=no TopDesignName="Project_Q3_lib:45:schematic" DcopOutputNodeVoltages=yes DcopOutputPinCurrents=yes DcopOutputAllSweepPoints=no DcopOutputDcopType=0
+Port:TermG2  RFout 0 Num=2 Z=50 Ohm Noise=yes 
+Port:TermG1  RFin 0 Num=1 Z=50 Ohm Noise=yes 
+ParamSweep:Sweep1 SimInstanceName[1]="SP1" StatusLevel=2 SweepVar="state" SweepPlan="Sweep1_stim" 
+
+SweepPlan: Sweep1_stim Start=0 Stop=1 Step=1 
+
+S_Param:SP1 CalcS=yes CalcY=no CalcZ=no GroupDelayAperture=1e-4 FreqConversion=no FreqConversionPort=1 StatusLevel=2 CalcNoise=no SortNoise=0 BandwidthForNoise=1.0 Hz DevOpPtLevel=0 SPSS_WSP=yes \
+SweepVar="freq" SweepPlan="SP1_stim" OutputPlan="SP1_Output" 
+
+SweepPlan: SP1_stim Start=10.25 GHz Stop=10.75 GHz Step=0.01 GHz 
+
+OutputPlan:SP1_Output \
+      Type="Output" \
+      UseEquationNestLevel=yes \
+      EquationNestLevel=2 \
+      UseSavedEquationNestLevel=yes \
+      SavedEquationNestLevel=2
+
+#load "python","LinearCollapse"
+Component Module="LinearCollapse" Type="ModelExtractor" NetworkRepresentation=2
+
+C1_1=120 tune{ 20 to 1000 by 1 }
+R1_1=1000 tune{ 45 to 2000 by 5 }
+state=0
+V_G=(state == 1) ? 3 : -3
+V_G_bar=(state == 1) ? -3 : 3
+L1_1=449 tune{ 20 to 1000 by 1 }
+V_Source:SRC2  V_G 0 Type="V_DC" Vdc=V_G V SaveCurrent=1 
+V_Source:SRC1  V_G_bar 0 Type="V_DC" Vdc=V_G_bar V SaveCurrent=1 
+L:L2  N__3 0 L=L1_1 pH Noise=yes  
+C:C3  N__3 0 C=C1_1 fF 
+C:C2  RFout N__3 C=C1_1 fF 
+C:C1  RFin N__3 C=C1_1 fF 
+L:L1  RFin RFout L=L1_1 pH Noise=yes  
+R:R2  V_G N__6 R=R1_1 Ohm Noise=yes 
+R:R1  V_G_bar N__2 R=R1_1 Ohm Noise=yes 
+"model21":M2  N__3 N__2 0 0 nf=8 gw=200 um _M=1 
+"model21":M1  RFout N__6 RFin RFin nf=4 gw=80 um _M=1 
+; models
+#include "C:/Program Files/Keysight/ADS2025/examples/DesignKit/DemoKit_Non_Linear/DemoKit_Non_Linear_v2.0//circuit/models/tline.net"
+#include "C:/Program Files/Keysight/ADS2025/examples/DesignKit/DemoKit_Non_Linear/DemoKit_Non_Linear_v2.0//circuit/models/tee.net"
+#include "C:/Program Files/Keysight/ADS2025/examples/DesignKit/DemoKit_Non_Linear/DemoKit_Non_Linear_v2.0//circuit/models/step.net"
+#include "C:/Program Files/Keysight/ADS2025/examples/DesignKit/DemoKit_Non_Linear/DemoKit_Non_Linear_v2.0//circuit/models/source_via_cktName.net"
+#include "C:/Program Files/Keysight/ADS2025/examples/DesignKit/DemoKit_Non_Linear/DemoKit_Non_Linear_v2.0//circuit/models/res2.net"
+#include "C:/Program Files/Keysight/ADS2025/examples/DesignKit/DemoKit_Non_Linear/DemoKit_Non_Linear_v2.0//circuit/models/res1.net"
+#include "C:/Program Files/Keysight/ADS2025/examples/DesignKit/DemoKit_Non_Linear/DemoKit_Non_Linear_v2.0//circuit/models/models_addOn.net"
+#include "C:/Program Files/Keysight/ADS2025/examples/DesignKit/DemoKit_Non_Linear/DemoKit_Non_Linear_v2.0//circuit/models/ind.net"
+#include "C:/Program Files/Keysight/ADS2025/examples/DesignKit/DemoKit_Non_Linear/DemoKit_Non_Linear_v2.0//circuit/models/fet2.net"
+#include "C:/Program Files/Keysight/ADS2025/examples/DesignKit/DemoKit_Non_Linear/DemoKit_Non_Linear_v2.0//circuit/models/fet1.net"
+#include "C:/Program Files/Keysight/ADS2025/examples/DesignKit/DemoKit_Non_Linear/DemoKit_Non_Linear_v2.0//circuit/models/fet0.net"
+#include "C:/Program Files/Keysight/ADS2025/examples/DesignKit/DemoKit_Non_Linear/DemoKit_Non_Linear_v2.0//circuit/models/demo_ind_dc_cktName.net"
+#include "C:/Program Files/Keysight/ADS2025/examples/DesignKit/DemoKit_Non_Linear/DemoKit_Non_Linear_v2.0//circuit/models/cross.net"
+#include "C:/Program Files/Keysight/ADS2025/examples/DesignKit/DemoKit_Non_Linear/DemoKit_Non_Linear_v2.0//circuit/models/cap.net"
+#include "C:/Program Files/Keysight/ADS2025/examples/DesignKit/DemoKit_Non_Linear/DemoKit_Non_Linear_v2.0//circuit/models/bvia_cktName.net"
+#include "C:/Program Files/Keysight/ADS2025/examples/DesignKit/DemoKit_Non_Linear/DemoKit_Non_Linear_v2.0//circuit/models/bondpad_cktName.net"
+#include "C:/Program Files/Keysight/ADS2025/examples/DesignKit/DemoKit_Non_Linear/DemoKit_Non_Linear_v2.0//circuit/models/bend.net"
+H1 = 100 um
+Er1 = 12.9
+NonLinearDemoKit_thermal = 1

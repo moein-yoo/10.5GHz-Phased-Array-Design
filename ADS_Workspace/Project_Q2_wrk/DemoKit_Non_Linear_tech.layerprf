@@ -1,0 +1,7 @@
+<!DOCTYPE DisplayAttributes>
+<Lpp_Differences_List>
+    <LPP mode="1" layer="M0" purpose="drawing"/>
+    <LPP mode="1" layer="M1" purpose="drawing"/>
+    <LPP mode="1" layer="M2" purpose="drawing"/>
+    <LPP layer="silk_screen2" visible="1" purpose="drawing"/>
+</Lpp_Differences_List>

@@ -1,0 +1,5 @@
+INCLUDE $HPEESOF_DIR/oalibs/analog_rf.defs
+DEFINE Project_Q3_lib Project_Q3_lib
+ASSIGN Project_Q3_lib libMode shared
+INCLUDE $HPEESOF_DIR/oalibs/dsp.defs
+INCLUDE $HPEESOF_DIR/examples/DesignKit/DemoKit_Non_Linear/DemoKit_Non_Linear_v2.0/lib.defs

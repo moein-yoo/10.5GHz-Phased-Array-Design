@@ -1,0 +1,4020 @@
+(resolution 1000)
+(line 255 (data
+ -382125 79000 -382125 80000
+ -381125 80000
+)
+(group 1)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -382125 61000 -382125 60000
+ -381125 60000
+)
+(group 2)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -363125 60000 -362125 60000
+ -362125 61000
+)
+(group 3)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -363125 80000 -362125 80000
+ -362125 79000
+)
+(group 4)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -589750 38173 -589750 37173
+ -589367 36249
+)
+(group 5)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -585250 26307 -584867 25383
+ -583943 25000
+)
+(group 6)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -574001 20883 -573077 20500
+ -572077 20500
+)
+(group 7)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -510268 20500 -509268 20500
+ -509268 21500
+)
+(group 8)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -510268 40500 -509268 40500
+ -509268 39500
+)
+(group 9)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -799501 16600 -799501 17600
+ -798501 17600
+)
+(group 10)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -799501 -1400 -799501 -2400
+ -798501 -2400
+)
+(group 11)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -601501 -2400 -600501 -2400
+ -600501 -1400
+)
+(group 12)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -601501 17600 -600501 17600
+ -600501 16600
+)
+(group 13)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -799501 -16700 -799501 -15700
+ -798501 -15700
+)
+(group 14)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -799501 -34700 -799501 -35700
+ -798501 -35700
+)
+(group 15)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -601501 -35700 -600501 -35700
+ -600501 -34700
+)
+(group 16)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -601501 -15700 -600501 -15700
+ -600501 -16700
+)
+(group 17)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -389367 -55000 -388367 -55000
+ -387443 -54617
+)
+(group 18)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -373652 -48905 -372728 -48522
+ -372345 -47598
+)
+(group 19)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -366633 -33807 -366250 -32883
+ -366250 -31883
+)
+(group 20)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -799501 -50000 -799501 -49000
+ -798501 -49000
+)
+(group 21)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -799501 -68000 -799501 -69000
+ -798501 -69000
+)
+(group 22)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -601501 -69000 -600501 -69000
+ -600501 -68000
+)
+(group 23)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -601501 -49000 -600501 -49000
+ -600501 -50000
+)
+(group 24)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -597991 -3990 -596991 -3990
+ -596991 -2950 -595991 -2950
+)
+(group 25)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -601001 -4400 -600001 -4400
+ -599571 -3990 -598571 -3990
+)
+(group 26)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -800001 -4400 -801001 -4400
+ -801001 -4900 -800001 -4900
+ -799501 -4550 -798501 -4550
+)
+(group 27)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -601001 -4550 -600001 -4550
+ -599571 -4960 -598571 -4960
+)
+(group 28)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -597991 -4960 -596991 -4960
+ -596991 -5960
+)
+(group 29)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -597991 -13140 -596991 -13140
+ -596991 -12140
+)
+(group 30)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -601001 -13550 -600001 -13550
+ -599571 -13140 -598571 -13140
+)
+(group 31)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -800001 -13550 -801001 -13550
+ -801001 -14050 -800001 -14050
+ -799501 -13700 -798501 -13700
+)
+(group 32)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -601001 -13700 -600001 -13700
+ -599571 -14110 -598571 -14110
+)
+(group 33)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -597991 -14110 -596991 -14110
+ -596991 -15110
+)
+(group 34)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -597991 -37290 -596991 -37290
+ -596991 -36290
+)
+(group 35)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -601001 -37700 -600001 -37700
+ -599571 -37290 -598571 -37290
+)
+(group 36)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -800001 -37700 -801001 -37700
+ -801001 -38200 -800001 -38200
+ -799501 -37850 -798501 -37850
+)
+(group 37)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -601001 -37850 -600001 -37850
+ -599571 -38260 -598571 -38260
+)
+(group 38)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -597991 -38260 -596991 -38260
+ -596991 -39260
+)
+(group 39)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -597991 -46440 -596991 -46440
+ -596991 -45440
+)
+(group 40)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -601001 -46850 -600001 -46850
+ -599571 -46440 -598571 -46440
+)
+(group 41)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -800001 -46850 -801001 -46850
+ -801001 -47350 -800001 -47350
+ -799501 -47000 -798501 -47000
+)
+(group 42)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -601001 -47000 -600001 -47000
+ -599571 -47410 -598571 -47410
+)
+(group 43)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -597991 -47410 -596991 -47410
+ -596991 -48410
+)
+(group 44)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -597991 -70590 -596991 -70590
+ -596991 -69590
+)
+(group 45)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -601001 -71000 -600001 -71000
+ -599571 -70590 -598571 -70590
+)
+(group 46)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -800001 -71000 -801001 -71000
+ -801001 -71500 -800001 -71500
+ -799501 -71150 -798501 -71150
+)
+(group 47)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -601001 -71150 -600001 -71150
+ -599571 -71560 -598571 -71560
+)
+(group 48)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -597991 -71560 -596991 -71560
+ -596991 -72560
+)
+(group 49)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -597991 -79740 -596991 -79740
+ -596991 -78740
+)
+(group 50)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -601001 -80150 -600001 -80150
+ -599571 -79740 -598571 -79740
+)
+(group 51)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -800001 -80150 -801001 -80150
+ -801001 -80650 -800001 -80650
+ -799501 -80300 -798501 -80300
+)
+(group 52)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -601001 -80300 -600001 -80300
+ -599571 -80710 -598571 -80710
+)
+(group 53)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -597991 -80710 -596991 -80710
+ -596991 -81710
+)
+(group 54)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -597991 -103890 -596991 -103890
+ -596991 -102890
+)
+(group 55)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -601001 -104300 -600001 -104300
+ -599571 -103890 -598571 -103890
+)
+(group 56)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -800001 -104300 -801001 -104300
+ -801001 -104800 -800001 -104800
+ -799501 -104450 -798501 -104450
+)
+(group 57)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -601001 -104450 -600001 -104450
+ -599571 -104860 -598571 -104860
+)
+(group 58)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -597991 -104860 -596991 -104860
+ -596991 -105860
+)
+(group 59)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -597991 -113040 -596991 -113040
+ -596991 -112040
+)
+(group 60)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -601001 -113450 -600001 -113450
+ -599571 -113040 -598571 -113040
+)
+(group 61)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -800001 -113450 -801001 -113450
+ -801001 -113950 -800001 -113950
+ -799501 -113600 -798501 -113600
+)
+(group 62)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -601001 -113600 -600001 -113600
+ -599571 -114010 -598571 -114010
+)
+(group 63)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -597991 -114010 -596991 -114010
+ -596991 -115050 -595991 -115050
+)
+(group 64)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -595191 -115050 -594191 -115050
+ -594191 -114050
+)
+(group 65)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -595191 -2950 -594191 -2950
+ -594191 -3950
+)
+(group 66)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -799501 -83300 -799501 -82300
+ -798501 -82300
+)
+(group 67)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -799501 -101300 -799501 -102300
+ -798501 -102300
+)
+(group 68)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -601501 -102300 -600501 -102300
+ -600501 -101300
+)
+(group 69)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -601501 -82300 -600501 -82300
+ -600501 -83300
+)
+(group 70)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -827501 -7550 -827501 -6550
+ -826501 -6550
+)
+(group 71)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -828501 -55000 -827501 -55000
+ -827501 -54000
+)
+(group 72)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -828501 -65000 -827501 -65000
+ -827501 -66000
+)
+(group 73)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -827501 -110450 -827501 -111450
+ -826501 -111450
+)
+(group 74)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -601501 -111450 -600501 -111450
+ -600501 -110450
+)
+(group 75)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -601501 -106450 -600501 -106450
+ -600501 -107450
+)
+(group 76)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -802501 -105450 -802501 -106450
+ -801501 -106450
+)
+(group 77)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -802501 -79150 -802501 -78150
+ -801501 -78150
+)
+(group 78)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -601501 -78150 -600501 -78150
+ -600501 -77150
+)
+(group 79)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -601501 -73150 -600501 -73150
+ -600501 -74150
+)
+(group 80)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -802501 -72150 -802501 -73150
+ -801501 -73150
+)
+(group 81)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -802501 -45850 -802501 -44850
+ -801501 -44850
+)
+(group 82)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -601501 -44850 -600501 -44850
+ -600501 -43850
+)
+(group 83)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -601501 -39850 -600501 -39850
+ -600501 -40850
+)
+(group 84)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -802501 -38850 -802501 -39850
+ -801501 -39850
+)
+(group 85)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -802501 -12550 -802501 -11550
+ -801501 -11550
+)
+(group 86)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -601501 -11550 -600501 -11550
+ -600501 -10550
+)
+(group 87)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -601501 -6550 -600501 -6550
+ -600501 -7550
+)
+(group 88)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -400767 -63250 -400767 -62250
+ -399767 -62250
+)
+(group 89)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -400767 -81750 -400767 -82750
+ -399767 -82750
+)
+(group 90)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -381267 -82750 -380267 -82750
+ -380267 -81750
+)
+(group 91)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -380267 -78500 -380267 -77500
+ -379267 -77500
+)
+(group 92)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -354124 -77500 -353124 -77500
+ -353124 -78500
+)
+(group 93)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -354124 -127500 -353124 -127500
+ -353124 -126500
+)
+(group 94)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -343124 -126500 -343124 -127500
+ -342124 -127500
+)
+(group 95)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -343507 -76052 -343124 -76976
+ -343124 -77976
+)
+(group 96)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -346823 -69892 -345899 -70275
+ -345516 -71199
+)
+(group 97)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -380267 -66500 -380267 -67500
+ -379267 -67500
+)
+(group 98)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -381267 -62250 -380267 -62250
+ -380267 -63250
+)
+(group 99)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -799501 -116600 -799501 -115600
+ -798501 -115600
+)
+(group 100)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -799501 -134600 -799501 -135600
+ -798501 -135600
+)
+(group 101)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -726001 -137100 -725001 -137100
+ -725001 -135600 -726001 -135600
+)
+(group 102)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -750001 -138100 -750001 -137100
+ -749001 -137100
+)
+(group 103)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -750001 -236100 -750001 -237100
+ -749001 -237100
+)
+(group 104)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -651001 -237100 -650001 -237100
+ -650001 -236100
+)
+(group 105)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -651001 -137100 -650001 -137100
+ -650001 -138100
+)
+(group 106)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -674001 -137100 -675001 -137100
+ -675001 -135600 -674001 -135600
+)
+(group 107)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -601501 -135600 -600501 -135600
+ -600501 -134600
+)
+(group 108)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -601501 -115600 -600501 -115600
+ -600501 -116600
+)
+(group 109)
+(message "M0 Layer is off grid")
+)
+(line 255 (data
+ -800001 17100 -800001 18100
+ -799001 18100
+)
+(group 114)
+(message "mesa Layer is off grid")
+)
+(line 255 (data
+ -800001 -135100 -800001 -136100
+ -799001 -136100
+)
+(group 115)
+(message "mesa Layer is off grid")
+)
+(line 255 (data
+ -601001 -136100 -600001 -136100
+ -600001 -135100
+)
+(group 116)
+(message "mesa Layer is off grid")
+)
+(line 255 (data
+ -601001 18100 -600001 18100
+ -600001 17100
+)
+(group 117)
+(message "mesa Layer is off grid")
+)
+(line 255 (data
+ -725001 -127100 -725001 -126100
+ -724001 -126100
+)
+(group 118)
+(message "Via_Nit1 Layer is off grid")
+)
+(line 255 (data
+ -726001 -137100 -725001 -137100
+ -725001 -136100
+)
+(group 119)
+(message "Via_Nit1 Layer is off grid")
+)
+(line 255 (data
+ -750001 -138100 -750001 -137100
+ -749001 -137100
+)
+(group 120)
+(message "Via_Nit1 Layer is off grid")
+)
+(line 255 (data
+ -750001 -236100 -750001 -237100
+ -749001 -237100
+)
+(group 121)
+(message "Via_Nit1 Layer is off grid")
+)
+(line 255 (data
+ -651001 -237100 -650001 -237100
+ -650001 -236100
+)
+(group 122)
+(message "Via_Nit1 Layer is off grid")
+)
+(line 255 (data
+ -651001 -137100 -650001 -137100
+ -650001 -138100
+)
+(group 123)
+(message "Via_Nit1 Layer is off grid")
+)
+(line 255 (data
+ -675001 -136100 -675001 -137100
+ -674001 -137100
+)
+(group 124)
+(message "Via_Nit1 Layer is off grid")
+)
+(line 255 (data
+ -676001 -126100 -675001 -126100
+ -675001 -127100
+)
+(group 125)
+(message "Via_Nit1 Layer is off grid")
+)
+(line 255 (data
+ -381625 78500 -381625 79500
+ -380625 79500
+)
+(group 126)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -381625 61500 -381625 60500
+ -380625 60500
+)
+(group 127)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -363625 60500 -362625 60500
+ -362625 61500
+)
+(group 128)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -363625 79500 -362625 79500
+ -362625 78500
+)
+(group 129)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -528768 39000 -528768 40000
+ -527768 40000
+)
+(group 130)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -528768 22000 -528768 21000
+ -527768 21000
+)
+(group 131)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -510768 21000 -509768 21000
+ -509768 22000
+)
+(group 132)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -510768 40000 -509768 40000
+ -509768 39000
+)
+(group 133)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -799001 16100 -799001 17100
+ -798001 17100
+)
+(group 134)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -799001 -900 -799001 -1900
+ -798001 -1900
+)
+(group 135)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -602001 -1900 -601001 -1900
+ -601001 -900
+)
+(group 136)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -602001 17100 -601001 17100
+ -601001 16100
+)
+(group 137)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -799001 -17200 -799001 -16200
+ -798001 -16200
+)
+(group 138)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -799001 -34200 -799001 -35200
+ -798001 -35200
+)
+(group 139)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -602001 -35200 -601001 -35200
+ -601001 -34200
+)
+(group 140)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -602001 -16200 -601001 -16200
+ -601001 -17200
+)
+(group 141)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -799001 -50500 -799001 -49500
+ -798001 -49500
+)
+(group 142)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -799001 -67500 -799001 -68500
+ -798001 -68500
+)
+(group 143)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -602001 -68500 -601001 -68500
+ -601001 -67500
+)
+(group 144)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -602001 -49500 -601001 -49500
+ -601001 -50500
+)
+(group 145)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -597491 -3450 -597491 -2450
+ -596491 -2450
+)
+(group 146)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -597491 -114550 -597491 -115550
+ -596491 -115550
+)
+(group 147)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -594691 -115550 -593691 -115550
+ -593691 -114550
+)
+(group 148)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -594691 -2450 -593691 -2450
+ -593691 -3450
+)
+(group 149)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -799001 -83800 -799001 -82800
+ -798001 -82800
+)
+(group 150)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -799001 -100800 -799001 -101800
+ -798001 -101800
+)
+(group 151)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -602001 -101800 -601001 -101800
+ -601001 -100800
+)
+(group 152)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -602001 -82800 -601001 -82800
+ -601001 -83800
+)
+(group 153)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -827001 -8050 -827001 -7050
+ -826001 -7050
+)
+(group 154)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -827001 -109950 -827001 -110950
+ -826001 -110950
+)
+(group 155)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -602001 -110950 -601001 -110950
+ -601001 -109950
+)
+(group 156)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -602001 -106950 -601001 -106950
+ -601001 -107950
+)
+(group 157)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -803001 -105950 -803001 -106950
+ -802001 -106950
+)
+(group 158)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -803001 -78650 -803001 -77650
+ -802001 -77650
+)
+(group 159)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -602001 -77650 -601001 -77650
+ -601001 -76650
+)
+(group 160)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -602001 -73650 -601001 -73650
+ -601001 -74650
+)
+(group 161)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -803001 -72650 -803001 -73650
+ -802001 -73650
+)
+(group 162)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -803001 -45350 -803001 -44350
+ -802001 -44350
+)
+(group 163)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -602001 -44350 -601001 -44350
+ -601001 -43350
+)
+(group 164)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -602001 -40350 -601001 -40350
+ -601001 -41350
+)
+(group 165)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -803001 -39350 -803001 -40350
+ -802001 -40350
+)
+(group 166)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -803001 -12050 -803001 -11050
+ -802001 -11050
+)
+(group 167)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -602001 -11050 -601001 -11050
+ -601001 -10050
+)
+(group 168)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -602001 -7050 -601001 -7050
+ -601001 -8050
+)
+(group 169)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -799001 -117100 -799001 -116100
+ -798001 -116100
+)
+(group 170)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -799001 -134100 -799001 -135100
+ -798001 -135100
+)
+(group 171)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -725001 -135100 -724001 -135100
+ -724001 -136100
+)
+(group 172)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -725001 -138100 -724001 -138100
+ -724001 -137100
+)
+(group 173)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -749001 -139100 -749001 -138100
+ -748001 -138100
+)
+(group 174)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -749001 -235100 -749001 -236100
+ -748001 -236100
+)
+(group 175)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -652001 -236100 -651001 -236100
+ -651001 -235100
+)
+(group 176)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -652001 -138100 -651001 -138100
+ -651001 -139100
+)
+(group 177)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -676001 -137100 -676001 -138100
+ -675001 -138100
+)
+(group 178)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -676001 -136100 -676001 -135100
+ -675001 -135100
+)
+(group 179)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -602001 -135100 -601001 -135100
+ -601001 -134100
+)
+(group 180)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -602001 -116100 -601001 -116100
+ -601001 -117100
+)
+(group 181)
+(message "Via0_1 Layer is off grid")
+)
+(line 255 (data
+ -382125 79000 -382125 80000
+ -381125 80000
+)
+(group 182)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -382125 61000 -382125 60000
+ -381125 60000
+)
+(group 183)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -363125 60000 -362125 60000
+ -362125 61000
+)
+(group 184)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -363125 80000 -362125 80000
+ -362125 79000
+)
+(group 185)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -588853 244617 -587929 245000
+ -586929 245000
+)
+(group 186)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -607454 236147 -607071 237071
+ -606147 237454
+)
+(group 187)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -615000 216929 -615000 217929
+ -614617 218853
+)
+(group 188)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -615000 163788 -615000 162788
+ -614617 161864
+)
+(group 189)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -610234 151280 -609851 150356
+ -608927 149973
+)
+(group 190)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -598343 145590 -597419 145207
+ -596419 145207
+)
+(group 191)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -590750 145207 -589750 145207
+ -589750 144207
+)
+(group 192)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -569750 144207 -569750 145207
+ -568750 145207
+)
+(group 193)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -492500 145207 -491500 145207
+ -491500 143707 -490500 143707
+)
+(group 194)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -469500 143707 -468500 143707
+ -468500 144707
+)
+(group 195)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -469500 166707 -468500 166707
+ -468500 165707
+)
+(group 196)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -492500 165207 -491500 165207
+ -491500 166707 -490500 166707
+)
+(group 197)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -595000 166207 -595000 165207
+ -594000 165207
+)
+(group 198)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -595000 219858 -595000 220858
+ -594293 221565
+)
+(group 199)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -591565 224293 -590858 225000
+ -589858 225000
+)
+(group 200)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -375040 44617 -374116 45000
+ -373116 45000
+)
+(group 201)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -379544 41987 -379161 42911
+ -378237 43294
+)
+(group 202)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -381250 36866 -381250 37866
+ -380867 38790
+)
+(group 203)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -798501 15600 -798501 16600
+ -797501 16600
+)
+(group 204)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -798501 -400 -798501 -1400
+ -797501 -1400
+)
+(group 205)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -602501 -1400 -601501 -1400
+ -601501 -400
+)
+(group 206)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -602501 16600 -601501 16600
+ -601501 15600
+)
+(group 207)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -798501 -17700 -798501 -16700
+ -797501 -16700
+)
+(group 208)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -798501 -33700 -798501 -34700
+ -797501 -34700
+)
+(group 209)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -602501 -34700 -601501 -34700
+ -601501 -33700
+)
+(group 210)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -602501 -16700 -601501 -16700
+ -601501 -17700
+)
+(group 211)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -798501 -51000 -798501 -50000
+ -797501 -50000
+)
+(group 212)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -798501 -67000 -798501 -68000
+ -797501 -68000
+)
+(group 213)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -602501 -68000 -601501 -68000
+ -601501 -67000
+)
+(group 214)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -602501 -50000 -601501 -50000
+ -601501 -51000
+)
+(group 215)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -798501 -84300 -798501 -83300
+ -797501 -83300
+)
+(group 216)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -798501 -100300 -798501 -101300
+ -797501 -101300
+)
+(group 217)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -602501 -101300 -601501 -101300
+ -601501 -100300
+)
+(group 218)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -602501 -83300 -601501 -83300
+ -601501 -84300
+)
+(group 219)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -826501 -8550 -826501 -7550
+ -825501 -7550
+)
+(group 220)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -826501 -109450 -826501 -110450
+ -825501 -110450
+)
+(group 221)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -602501 -110450 -601501 -110450
+ -601501 -109450
+)
+(group 222)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -602501 -107450 -601501 -107450
+ -601501 -108450
+)
+(group 223)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -803501 -106450 -803501 -107450
+ -802501 -107450
+)
+(group 224)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -803501 -78150 -803501 -77150
+ -802501 -77150
+)
+(group 225)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -602501 -77150 -601501 -77150
+ -601501 -76150
+)
+(group 226)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -602501 -74150 -601501 -74150
+ -601501 -75150
+)
+(group 227)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -803501 -73150 -803501 -74150
+ -802501 -74150
+)
+(group 228)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -803501 -44850 -803501 -43850
+ -802501 -43850
+)
+(group 229)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -602501 -43850 -601501 -43850
+ -601501 -42850
+)
+(group 230)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -602501 -40850 -601501 -40850
+ -601501 -41850
+)
+(group 231)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -803501 -39850 -803501 -40850
+ -802501 -40850
+)
+(group 232)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -803501 -11550 -803501 -10550
+ -802501 -10550
+)
+(group 233)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -602501 -10550 -601501 -10550
+ -601501 -9550
+)
+(group 234)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -602501 -7550 -601501 -7550
+ -601501 -8550
+)
+(group 235)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -529268 39500 -529268 40500
+ -528268 40500
+)
+(group 236)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -529268 -2498 -529268 -3498
+ -528885 -4422
+)
+(group 237)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -523174 -18211 -522791 -19135
+ -521867 -19518
+)
+(group 238)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -508078 -25229 -507154 -25612
+ -506154 -25612
+)
+(group 239)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -499526 -25612 -498526 -25612
+ -498526 -26612
+)
+(group 240)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -499526 -54000 -498526 -54000
+ -498526 -53000
+)
+(group 241)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -563191 -53000 -563191 -54000
+ -562191 -54000
+)
+(group 242)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -564191 -13140 -563191 -13140
+ -563191 -14140
+)
+(group 243)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -593191 -12140 -593191 -13140
+ -592191 -13140
+)
+(group 244)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -594191 -1950 -593191 -1950
+ -593191 -2950
+)
+(group 245)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -597991 -2950 -597991 -1950
+ -596991 -1950
+)
+(group 246)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -597991 -115050 -597991 -116050
+ -596991 -116050
+)
+(group 247)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -594191 -116050 -593191 -116050
+ -593191 -115050
+)
+(group 248)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -593191 -115010 -593191 -114010
+ -592191 -114010
+)
+(group 249)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -564191 -114010 -563191 -114010
+ -563191 -113010
+)
+(group 250)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -563191 -65000 -563191 -64000
+ -562191 -64000
+)
+(group 251)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -499526 -64000 -498526 -64000
+ -498526 -65000
+)
+(group 252)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -500026 -144500 -500026 -143500
+ -498526 -143500 -498526 -142500
+)
+(group 253)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -500026 -165500 -500026 -166500
+ -499026 -166500
+)
+(group 254)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -478026 -166500 -477026 -166500
+ -477026 -165500
+)
+(group 255)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -478526 -142500 -478526 -143500
+ -477026 -143500 -477026 -144500
+)
+(group 256)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -478526 -78500 -478526 -77500
+ -477526 -77500
+)
+(group 257)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -397767 -77500 -396767 -77500
+ -396767 -78750 -395767 -78750
+)
+(group 258)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -385267 -78750 -384267 -78750
+ -384267 -77750
+)
+(group 259)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -385267 -66250 -384267 -66250
+ -384267 -67250
+)
+(group 260)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -397767 -67500 -396767 -67500
+ -396767 -66250 -395767 -66250
+)
+(group 261)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -478526 -66500 -478526 -67500
+ -477526 -67500
+)
+(group 262)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -479233 -24905 -478526 -25612
+ -478526 -26612
+)
+(group 263)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -499526 -5612 -498526 -5612
+ -497819 -6319
+)
+(group 264)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -509268 -3374 -509268 -4374
+ -508030 -5612 -507030 -5612
+)
+(group 265)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -510268 40500 -509268 40500
+ -509268 39500
+)
+(group 266)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -798501 -117600 -798501 -116600
+ -797501 -116600
+)
+(group 267)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -798501 -133600 -798501 -134600
+ -797501 -134600
+)
+(group 268)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -726001 -134600 -725001 -134600
+ -725001 -135600
+)
+(group 269)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -726001 -137100 -725001 -137100
+ -725001 -136100
+)
+(group 270)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -750001 -138100 -750001 -137100
+ -749001 -137100
+)
+(group 271)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -750001 -236100 -750001 -237100
+ -749001 -237100
+)
+(group 272)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -651001 -237100 -650001 -237100
+ -650001 -236100
+)
+(group 273)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -651001 -137100 -650001 -137100
+ -650001 -138100
+)
+(group 274)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -675001 -136100 -675001 -137100
+ -674001 -137100
+)
+(group 275)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -675001 -135600 -675001 -134600
+ -674001 -134600
+)
+(group 276)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -602501 -134600 -601501 -134600
+ -601501 -133600
+)
+(group 277)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -602501 -116600 -601501 -116600
+ -601501 -117600
+)
+(group 278)
+(message "M1 Layer is off grid")
+)
+(line 255 (data
+ -489500 163707 -489500 164707
+ -488500 164707
+)
+(group 279)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -489500 146707 -489500 145707
+ -488500 145707
+)
+(group 280)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -471500 145707 -470500 145707
+ -470500 146707
+)
+(group 281)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -471500 164707 -470500 164707
+ -470500 163707
+)
+(group 282)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -381625 78500 -381625 79500
+ -380625 79500
+)
+(group 283)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -381625 61500 -381625 60500
+ -380625 60500
+)
+(group 284)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -363625 60500 -362625 60500
+ -362625 61500
+)
+(group 285)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -363625 79500 -362625 79500
+ -362625 78500
+)
+(group 286)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -798001 15100 -798001 16100
+ -797001 16100
+)
+(group 287)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -798001 100 -798001 -900
+ -797001 -900
+)
+(group 288)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -603001 -900 -602001 -900
+ -602001 100
+)
+(group 289)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -603001 16100 -602001 16100
+ -602001 15100
+)
+(group 290)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -798001 -18200 -798001 -17200
+ -797001 -17200
+)
+(group 291)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -798001 -33200 -798001 -34200
+ -797001 -34200
+)
+(group 292)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -603001 -34200 -602001 -34200
+ -602001 -33200
+)
+(group 293)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -603001 -17200 -602001 -17200
+ -602001 -18200
+)
+(group 294)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -798001 -51500 -798001 -50500
+ -797001 -50500
+)
+(group 295)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -798001 -66500 -798001 -67500
+ -797001 -67500
+)
+(group 296)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -603001 -67500 -602001 -67500
+ -602001 -66500
+)
+(group 297)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -603001 -50500 -602001 -50500
+ -602001 -51500
+)
+(group 298)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -798001 -84800 -798001 -83800
+ -797001 -83800
+)
+(group 299)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -798001 -99800 -798001 -100800
+ -797001 -100800
+)
+(group 300)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -603001 -100800 -602001 -100800
+ -602001 -99800
+)
+(group 301)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -603001 -83800 -602001 -83800
+ -602001 -84800
+)
+(group 302)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -826001 -9050 -826001 -8050
+ -825001 -8050
+)
+(group 303)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -826001 -108950 -826001 -109950
+ -825001 -109950
+)
+(group 304)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -603001 -109950 -602001 -109950
+ -602001 -107950 -603001 -107950
+)
+(group 305)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -804001 -106950 -804001 -107950
+ -803001 -107950
+)
+(group 306)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -804001 -77650 -804001 -76650
+ -803001 -76650
+)
+(group 307)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -603001 -76650 -602001 -76650
+ -602001 -74650 -603001 -74650
+)
+(group 308)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -804001 -73650 -804001 -74650
+ -803001 -74650
+)
+(group 309)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -804001 -44350 -804001 -43350
+ -803001 -43350
+)
+(group 310)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -603001 -43350 -602001 -43350
+ -602001 -41350 -603001 -41350
+)
+(group 311)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -804001 -40350 -804001 -41350
+ -803001 -41350
+)
+(group 312)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -804001 -11050 -804001 -10050
+ -803001 -10050
+)
+(group 313)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -603001 -10050 -602001 -10050
+ -602001 -8050 -603001 -8050
+)
+(group 314)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -498026 -146500 -498026 -145500
+ -497026 -145500
+)
+(group 315)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -498026 -163500 -498026 -164500
+ -497026 -164500
+)
+(group 316)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -480026 -164500 -479026 -164500
+ -479026 -163500
+)
+(group 317)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -480026 -145500 -479026 -145500
+ -479026 -146500
+)
+(group 318)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -798001 -118100 -798001 -117100
+ -797001 -117100
+)
+(group 319)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -798001 -133100 -798001 -134100
+ -797001 -134100
+)
+(group 320)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -724001 -134100 -723001 -134100
+ -723001 -135100
+)
+(group 321)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -724001 -139100 -723001 -139100
+ -723001 -138100
+)
+(group 322)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -748001 -140100 -748001 -139100
+ -747001 -139100
+)
+(group 323)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -748001 -234100 -748001 -235100
+ -747001 -235100
+)
+(group 324)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -653001 -235100 -652001 -235100
+ -652001 -234100
+)
+(group 325)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -653001 -139100 -652001 -139100
+ -652001 -140100
+)
+(group 326)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -677001 -138100 -677001 -139100
+ -676001 -139100
+)
+(group 327)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -677001 -135100 -677001 -134100
+ -676001 -134100
+)
+(group 328)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -603001 -134100 -602001 -134100
+ -602001 -133100
+)
+(group 329)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -603001 -117100 -602001 -117100
+ -602001 -118100
+)
+(group 330)
+(message "Via1_2 Layer is off grid")
+)
+(line 255 (data
+ -532707 209500 -532000 210207
+ -531000 210207
+)
+(group 331)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -535000 206207 -535000 207207
+ -534293 207914
+)
+(group 332)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -535000 104207 -535000 103207
+ -534293 102500
+)
+(group 333)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -532707 100914 -532000 100207
+ -531000 100207
+)
+(group 334)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -377347 100207 -376347 100207
+ -375640 99500
+)
+(group 335)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -375332 99192 -374625 98485
+ -374625 97485
+)
+(group 336)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -375625 80000 -374625 80000
+ -374625 81000
+)
+(group 337)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -382125 79000 -382125 80000
+ -381125 80000
+)
+(group 338)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -382125 61000 -382125 60000
+ -381125 60000
+)
+(group 339)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -363125 60000 -362125 60000
+ -362125 61000
+)
+(group 340)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -363125 80000 -362125 80000
+ -362125 79000
+)
+(group 341)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -369625 81000 -369625 80000
+ -368625 80000
+)
+(group 342)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -370008 98192 -369625 97268
+ -369625 96268
+)
+(group 343)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -372874 103265 -371950 102882
+ -371567 101958
+)
+(group 344)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -378564 105207 -377564 105207
+ -376640 104824
+)
+(group 345)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -530000 106207 -530000 105207
+ -529000 105207
+)
+(group 346)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -530000 204207 -530000 205207
+ -529000 205207
+)
+(group 347)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -431000 205207 -430000 205207
+ -430000 204207
+)
+(group 348)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -431000 157707 -430000 157707
+ -430000 158707
+)
+(group 349)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -472500 158707 -472500 157707
+ -471500 157707
+)
+(group 350)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -473500 162707 -472500 162707
+ -472500 161707
+)
+(group 351)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -487500 161707 -487500 162707
+ -486500 162707
+)
+(group 352)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -487500 148707 -487500 147707
+ -486500 147707
+)
+(group 353)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -473500 147707 -472500 147707
+ -472500 148707
+)
+(group 354)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -472500 151707 -472500 152707
+ -471500 152707
+)
+(group 355)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -429000 152707 -428000 152707
+ -427293 153414
+)
+(group 356)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -425707 155000 -425000 155707
+ -425000 156707
+)
+(group 357)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -429000 210207 -428000 210207
+ -427293 209500
+)
+(group 358)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -425707 207914 -425000 207207
+ -425000 206207
+)
+(group 359)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -825501 -9550 -825501 -8550
+ -824501 -8550
+)
+(group 360)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -825501 -108450 -825501 -109450
+ -824501 -109450
+)
+(group 361)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -603501 -109450 -602501 -109450
+ -602501 -108450 -603501 -108450
+)
+(group 362)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -804501 -107450 -804501 -108450
+ -803501 -108450
+)
+(group 363)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -804501 -77150 -804501 -76150
+ -803501 -76150
+)
+(group 364)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -603501 -76150 -602501 -76150
+ -602501 -75150 -603501 -75150
+)
+(group 365)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -804501 -74150 -804501 -75150
+ -803501 -75150
+)
+(group 366)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -804501 -43850 -804501 -42850
+ -803501 -42850
+)
+(group 367)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -603501 -42850 -602501 -42850
+ -602501 -41850 -603501 -41850
+)
+(group 368)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -804501 -40850 -804501 -41850
+ -803501 -41850
+)
+(group 369)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -804501 -10550 -804501 -9550
+ -803501 -9550
+)
+(group 370)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -603501 -9550 -602501 -9550
+ -602501 -8550 -603501 -8550
+)
+(group 371)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -541233 -100707 -540526 -100000
+ -539526 -100000
+)
+(group 372)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -543526 -104000 -543526 -103000
+ -542819 -102293
+)
+(group 373)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -543526 -206000 -543526 -207000
+ -542819 -207707
+)
+(group 374)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -541233 -209293 -540526 -210000
+ -539526 -210000
+)
+(group 375)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -538526 -204000 -538526 -205000
+ -537526 -205000
+)
+(group 376)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -538526 -106000 -538526 -105000
+ -537526 -105000
+)
+(group 377)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -439526 -105000 -438526 -105000
+ -438526 -106000
+)
+(group 378)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -439526 -152500 -438526 -152500
+ -438526 -151500
+)
+(group 379)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -481026 -151500 -481026 -152500
+ -480026 -152500
+)
+(group 380)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -482026 -147500 -481026 -147500
+ -481026 -148500
+)
+(group 381)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -496026 -148500 -496026 -147500
+ -495026 -147500
+)
+(group 382)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -496026 -161500 -496026 -162500
+ -495026 -162500
+)
+(group 383)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -482026 -162500 -481026 -162500
+ -481026 -161500
+)
+(group 384)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -481026 -158500 -481026 -157500
+ -480026 -157500
+)
+(group 385)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -437526 -157500 -436526 -157500
+ -435819 -156793
+)
+(group 386)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -434233 -155207 -433526 -154500
+ -433526 -153500
+)
+(group 387)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -437526 -100000 -436526 -100000
+ -435819 -100707
+)
+(group 388)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -434233 -102293 -433526 -103000
+ -433526 -104000
+)
+(group 389)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -797501 14600 -797501 15600
+ -796501 15600
+)
+(group 390)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -797501 600 -797501 -400
+ -796501 -400
+)
+(group 391)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -603501 -400 -602501 -400
+ -602501 600
+)
+(group 392)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -602501 1600 -602501 2600
+ -601501 2600
+)
+(group 393)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -584681 2600 -583681 2600
+ -583681 1600
+)
+(group 394)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -584681 -20700 -583681 -20700
+ -583681 -19700
+)
+(group 395)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -602501 -19700 -602501 -20700
+ -601501 -20700
+)
+(group 396)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -603501 -17700 -602501 -17700
+ -602501 -18700
+)
+(group 397)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -797501 -18700 -797501 -17700
+ -796501 -17700
+)
+(group 398)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -797501 -32700 -797501 -33700
+ -796501 -33700
+)
+(group 399)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -603501 -33700 -602501 -33700
+ -602501 -32700
+)
+(group 400)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -602501 -31700 -602501 -30700
+ -601501 -30700
+)
+(group 401)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -584681 -30700 -583681 -30700
+ -583681 -31700
+)
+(group 402)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -584681 -54000 -583681 -54000
+ -583681 -53000
+)
+(group 403)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -602501 -53000 -602501 -54000
+ -601501 -54000
+)
+(group 404)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -603501 -51000 -602501 -51000
+ -602501 -52000
+)
+(group 405)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -797501 -52000 -797501 -51000
+ -796501 -51000
+)
+(group 406)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -797501 -66000 -797501 -67000
+ -796501 -67000
+)
+(group 407)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -603501 -67000 -602501 -67000
+ -602501 -66000
+)
+(group 408)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -602501 -65000 -602501 -64000
+ -601501 -64000
+)
+(group 409)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -584681 -64000 -583681 -64000
+ -583681 -65000
+)
+(group 410)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -584681 -87300 -583681 -87300
+ -583681 -86300
+)
+(group 411)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -602501 -86300 -602501 -87300
+ -601501 -87300
+)
+(group 412)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -603501 -84300 -602501 -84300
+ -602501 -85300
+)
+(group 413)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -797501 -85300 -797501 -84300
+ -796501 -84300
+)
+(group 414)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -797501 -99300 -797501 -100300
+ -796501 -100300
+)
+(group 415)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -603501 -100300 -602501 -100300
+ -602501 -99300
+)
+(group 416)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -602501 -98300 -602501 -97300
+ -601501 -97300
+)
+(group 417)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -584681 -97300 -583681 -97300
+ -583681 -98300
+)
+(group 418)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -584681 -120600 -583681 -120600
+ -583681 -119600
+)
+(group 419)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -602501 -119600 -602501 -120600
+ -601501 -120600
+)
+(group 420)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -603501 -117600 -602501 -117600
+ -602501 -118600
+)
+(group 421)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -797501 -118600 -797501 -117600
+ -796501 -117600
+)
+(group 422)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -797501 -132600 -797501 -133600
+ -796501 -133600
+)
+(group 423)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -726001 -133600 -725001 -133600
+ -725001 -134600
+)
+(group 424)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -726001 -137100 -725001 -137100
+ -725001 -136100
+)
+(group 425)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -750001 -138100 -750001 -137100
+ -749001 -137100
+)
+(group 426)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -750001 -236100 -750001 -237100
+ -749001 -237100
+)
+(group 427)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -651001 -237100 -650001 -237100
+ -650001 -236100
+)
+(group 428)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -651001 -137100 -650001 -137100
+ -650001 -138100
+)
+(group 429)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -675001 -136100 -675001 -137100
+ -674001 -137100
+)
+(group 430)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -675001 -134600 -675001 -133600
+ -674001 -133600
+)
+(group 431)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -603501 -133600 -602501 -133600
+ -602501 -132600
+)
+(group 432)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -602501 -131600 -602501 -130600
+ -601501 -130600
+)
+(group 433)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -584681 -130600 -583681 -130600
+ -582974 -129893
+)
+(group 434)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -574388 -121307 -573681 -120600
+ -573681 -119600
+)
+(group 435)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -574388 3307 -573681 2600
+ -573681 1600
+)
+(group 436)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -584681 12600 -583681 12600
+ -582974 11893
+)
+(group 437)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -602501 13600 -602501 12600
+ -601501 12600
+)
+(group 438)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -603501 15600 -602501 15600
+ -602501 14600
+)
+(group 439)
+(message "M2 Layer is off grid")
+)
+(line 255 (data
+ -364477 -137783 -363486 -137652
+ -362487 -137608
+)
+(group 440)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -367922 -138324 -366946 -138108
+ -365955 -137977
+)
+(group 441)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -371307 -139164 -370353 -138863
+ -369377 -138647
+)
+(group 442)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -374605 -140295 -373681 -139912
+ -372727 -139611
+)
+(group 443)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -377792 -141710 -376905 -141248
+ -375981 -140865
+)
+(group 444)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -380843 -143396 -380000 -142859
+ -379113 -142397
+)
+(group 445)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -383736 -145343 -382943 -144734
+ -382100 -144197
+)
+(group 446)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -386449 -147534 -385712 -146858
+ -384919 -146249
+)
+(group 447)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -388960 -149953 -388284 -149216
+ -387547 -148540
+)
+(group 448)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -391251 -152581 -390642 -151788
+ -389966 -151051
+)
+(group 449)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -393303 -155400 -392766 -154557
+ -392157 -153764
+)
+(group 450)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -395103 -158387 -394641 -157500
+ -394104 -156657
+)
+(group 451)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -396635 -161519 -396252 -160595
+ -395790 -159708
+)
+(group 452)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -397889 -164773 -397588 -163819
+ -397205 -162895
+)
+(group 453)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -398853 -168123 -398637 -167147
+ -398336 -166193
+)
+(group 454)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -399523 -171545 -399392 -170554
+ -399176 -169578
+)
+(group 455)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -399892 -175013 -399848 -174014
+ -399717 -173023
+)
+(group 456)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -399892 -179987 -399848 -180986
+ -399717 -181977
+)
+(group 457)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -399523 -183455 -399392 -184446
+ -399176 -185422
+)
+(group 458)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -398853 -186877 -398637 -187853
+ -398336 -188807
+)
+(group 459)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -397889 -190227 -397588 -191181
+ -397205 -192105
+)
+(group 460)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -396635 -193481 -396252 -194405
+ -395790 -195292
+)
+(group 461)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -395103 -196613 -394641 -197500
+ -394104 -198343
+)
+(group 462)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -393303 -199600 -392766 -200443
+ -392157 -201236
+)
+(group 463)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -391251 -202419 -390642 -203212
+ -389966 -203949
+)
+(group 464)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -388960 -205047 -388284 -205784
+ -387547 -206460
+)
+(group 465)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -386449 -207466 -385712 -208142
+ -384919 -208751
+)
+(group 466)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -383736 -209657 -382943 -210266
+ -382100 -210803
+)
+(group 467)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -380843 -211604 -380000 -212141
+ -379113 -212603
+)
+(group 468)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -377792 -213290 -376905 -213752
+ -375981 -214135
+)
+(group 469)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -374605 -214705 -373681 -215088
+ -372727 -215389
+)
+(group 470)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -371307 -215836 -370353 -216137
+ -369377 -216353
+)
+(group 471)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -367922 -216676 -366946 -216892
+ -365955 -217023
+)
+(group 472)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -364477 -217217 -363486 -217348
+ -362487 -217392
+)
+(group 473)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -357513 -217392 -356514 -217348
+ -355523 -217217
+)
+(group 474)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -354045 -217023 -353054 -216892
+ -352078 -216676
+)
+(group 475)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -350623 -216353 -349647 -216137
+ -348693 -215836
+)
+(group 476)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -347273 -215389 -346319 -215088
+ -345395 -214705
+)
+(group 477)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -344019 -214135 -343095 -213752
+ -342208 -213290
+)
+(group 478)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -340887 -212603 -340000 -212141
+ -339157 -211604
+)
+(group 479)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -337900 -210803 -337057 -210266
+ -336264 -209657
+)
+(group 480)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -335081 -208751 -334288 -208142
+ -333551 -207466
+)
+(group 481)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -332453 -206460 -331716 -205784
+ -331040 -205047
+)
+(group 482)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -330034 -203949 -329358 -203212
+ -328749 -202419
+)
+(group 483)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -327843 -201236 -327234 -200443
+ -326697 -199600
+)
+(group 484)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -325896 -198343 -325359 -197500
+ -324897 -196613
+)
+(group 485)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -324210 -195292 -323748 -194405
+ -323365 -193481
+)
+(group 486)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -322795 -192105 -322412 -191181
+ -322111 -190227
+)
+(group 487)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -321664 -188807 -321363 -187853
+ -321147 -186877
+)
+(group 488)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -320824 -185422 -320608 -184446
+ -320477 -183455
+)
+(group 489)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -320283 -181977 -320152 -180986
+ -320108 -179987
+)
+(group 490)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -320283 -173023 -320152 -174014
+ -320108 -175013
+)
+(group 491)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -320824 -169578 -320608 -170554
+ -320477 -171545
+)
+(group 492)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -321664 -166193 -321363 -167147
+ -321147 -168123
+)
+(group 493)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -322795 -162895 -322412 -163819
+ -322111 -164773
+)
+(group 494)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -324210 -159708 -323748 -160595
+ -323365 -161519
+)
+(group 495)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -325896 -156657 -325359 -157500
+ -324897 -158387
+)
+(group 496)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -327843 -153764 -327234 -154557
+ -326697 -155400
+)
+(group 497)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -330034 -151051 -329358 -151788
+ -328749 -152581
+)
+(group 498)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -332453 -148540 -331716 -149216
+ -331040 -149953
+)
+(group 499)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -335081 -146249 -334288 -146858
+ -333551 -147534
+)
+(group 500)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -337900 -144197 -337057 -144734
+ -336264 -145343
+)
+(group 501)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -340887 -142397 -340000 -142859
+ -339157 -143396
+)
+(group 502)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -344019 -140865 -343095 -141248
+ -342208 -141710
+)
+(group 503)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -347273 -139611 -346319 -139912
+ -345395 -140295
+)
+(group 504)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -350623 -138647 -349647 -138863
+ -348693 -139164
+)
+(group 505)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -354045 -137977 -353054 -138108
+ -352078 -138324
+)
+(group 506)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -357513 -137608 -356514 -137652
+ -355523 -137783
+)
+(group 507)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -704978 -147383 -703987 -147252
+ -702988 -147208
+)
+(group 508)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -708423 -147924 -707447 -147708
+ -706456 -147577
+)
+(group 509)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -711808 -148764 -710854 -148463
+ -709878 -148247
+)
+(group 510)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -715106 -149895 -714182 -149512
+ -713228 -149211
+)
+(group 511)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -718293 -151310 -717406 -150848
+ -716482 -150465
+)
+(group 512)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -721344 -152996 -720501 -152459
+ -719614 -151997
+)
+(group 513)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -724237 -154943 -723444 -154334
+ -722601 -153797
+)
+(group 514)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -726950 -157134 -726213 -156458
+ -725420 -155849
+)
+(group 515)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -729461 -159553 -728785 -158816
+ -728048 -158140
+)
+(group 516)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -731752 -162181 -731143 -161388
+ -730467 -160651
+)
+(group 517)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -733804 -165000 -733267 -164157
+ -732658 -163364
+)
+(group 518)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -735604 -167987 -735142 -167100
+ -734605 -166257
+)
+(group 519)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -737136 -171119 -736753 -170195
+ -736291 -169308
+)
+(group 520)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -738390 -174373 -738089 -173419
+ -737706 -172495
+)
+(group 521)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -739354 -177723 -739138 -176747
+ -738837 -175793
+)
+(group 522)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -740024 -181145 -739893 -180154
+ -739677 -179178
+)
+(group 523)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -740393 -184613 -740349 -183614
+ -740218 -182623
+)
+(group 524)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -740457 -188099 -740501 -187100
+ -740457 -186101
+)
+(group 525)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -740393 -189587 -740349 -190586
+ -740218 -191577
+)
+(group 526)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -740024 -193055 -739893 -194046
+ -739677 -195022
+)
+(group 527)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -739354 -196477 -739138 -197453
+ -738837 -198407
+)
+(group 528)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -738390 -199827 -738089 -200781
+ -737706 -201705
+)
+(group 529)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -737136 -203081 -736753 -204005
+ -736291 -204892
+)
+(group 530)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -735604 -206213 -735142 -207100
+ -734605 -207943
+)
+(group 531)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -733804 -209200 -733267 -210043
+ -732658 -210836
+)
+(group 532)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -731752 -212019 -731143 -212812
+ -730467 -213549
+)
+(group 533)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -729461 -214647 -728785 -215384
+ -728048 -216060
+)
+(group 534)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -726950 -217066 -726213 -217742
+ -725420 -218351
+)
+(group 535)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -724237 -219257 -723444 -219866
+ -722601 -220403
+)
+(group 536)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -721344 -221204 -720501 -221741
+ -719614 -222203
+)
+(group 537)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -718293 -222890 -717406 -223352
+ -716482 -223735
+)
+(group 538)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -715106 -224305 -714182 -224688
+ -713228 -224989
+)
+(group 539)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -711808 -225436 -710854 -225737
+ -709878 -225953
+)
+(group 540)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -708423 -226276 -707447 -226492
+ -706456 -226623
+)
+(group 541)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -704978 -226817 -703987 -226948
+ -702988 -226992
+)
+(group 542)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -701500 -227056 -700501 -227100
+ -699502 -227056
+)
+(group 543)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -698014 -226992 -697015 -226948
+ -696024 -226817
+)
+(group 544)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -694546 -226623 -693555 -226492
+ -692579 -226276
+)
+(group 545)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -691124 -225953 -690148 -225737
+ -689194 -225436
+)
+(group 546)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -687774 -224989 -686820 -224688
+ -685896 -224305
+)
+(group 547)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -684520 -223735 -683596 -223352
+ -682709 -222890
+)
+(group 548)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -681388 -222203 -680501 -221741
+ -679658 -221204
+)
+(group 549)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -678401 -220403 -677558 -219866
+ -676765 -219257
+)
+(group 550)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -675582 -218351 -674789 -217742
+ -674052 -217066
+)
+(group 551)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -672954 -216060 -672217 -215384
+ -671541 -214647
+)
+(group 552)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -670535 -213549 -669859 -212812
+ -669250 -212019
+)
+(group 553)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -668344 -210836 -667735 -210043
+ -667198 -209200
+)
+(group 554)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -664711 -204892 -664249 -204005
+ -663866 -203081
+)
+(group 555)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -663296 -201705 -662913 -200781
+ -662612 -199827
+)
+(group 556)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -662165 -198407 -661864 -197453
+ -661648 -196477
+)
+(group 557)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -661325 -195022 -661109 -194046
+ -660978 -193055
+)
+(group 558)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -660784 -191577 -660653 -190586
+ -660609 -189587
+)
+(group 559)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -660545 -188099 -660501 -187100
+ -660545 -186101
+)
+(group 560)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -660784 -182623 -660653 -183614
+ -660609 -184613
+)
+(group 561)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -661325 -179178 -661109 -180154
+ -660978 -181145
+)
+(group 562)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -662165 -175793 -661864 -176747
+ -661648 -177723
+)
+(group 563)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -663296 -172495 -662913 -173419
+ -662612 -174373
+)
+(group 564)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -664711 -169308 -664249 -170195
+ -663866 -171119
+)
+(group 565)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -668344 -163364 -667735 -164157
+ -667198 -165000
+)
+(group 566)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -670535 -160651 -669859 -161388
+ -669250 -162181
+)
+(group 567)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -672954 -158140 -672217 -158816
+ -671541 -159553
+)
+(group 568)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -675582 -155849 -674789 -156458
+ -674052 -157134
+)
+(group 569)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -678401 -153797 -677558 -154334
+ -676765 -154943
+)
+(group 570)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -681388 -151997 -680501 -152459
+ -679658 -152996
+)
+(group 571)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -684520 -150465 -683596 -150848
+ -682709 -151310
+)
+(group 572)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -687774 -149211 -686820 -149512
+ -685896 -149895
+)
+(group 573)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -691124 -148247 -690148 -148463
+ -689194 -148764
+)
+(group 574)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -694546 -147577 -693555 -147708
+ -692579 -147924
+)
+(group 575)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -701500 -147144 -700501 -147100
+ -699502 -147144
+)
+(group 576)
+(message "BVia Layer is off grid")
+)
+(line 255 (data
+ -698014 -147208 -697015 -147252
+ -696024 -147383
+)
+(group 577)
+(message "BVia Layer is off grid")
+)

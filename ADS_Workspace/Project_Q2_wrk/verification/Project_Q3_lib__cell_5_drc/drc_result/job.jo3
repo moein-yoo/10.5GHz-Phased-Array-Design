@@ -1,0 +1,8 @@
+status
+ exitlevel   0 ;
+ cmd_note    0 ;
+ cmd_error   0 ;
+ cmd_warn    0 ;
+ cmd_fatal   0 ;
+ drcerrors   577 ;
+end_status
