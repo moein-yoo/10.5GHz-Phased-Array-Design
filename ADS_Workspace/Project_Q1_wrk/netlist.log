@@ -1,0 +1,186 @@
+; Top Design: "Project_Q1_lib:cell_2:schematic"
+; Netlisted using Hierarchy Policy: "Standard"
+
+Options ResourceUsage=yes UseNutmegFormat=no EnableOptim=no TopDesignName="Project_Q1_lib:cell_2:schematic" DcopOutputNodeVoltages=yes DcopOutputPinCurrents=yes DcopOutputAllSweepPoints=no DcopOutputDcopType=0
+MLIN2:TL30  N__37 N__120 Subst="MSub1" W=w1 mm L=2.1*L1 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+R:R4  P16 P17 R=100 Ohm Noise=yes 
+MLIN2:TL42  N__10 N__5 Subst="MSub1" W=w1 mm L=1.2*L1 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MCURVE:Curve8  N__32 N__29 Subst="MSub1" W=w2 mm Angle=180 Radius=R mm 
+MTEE_ADS:Tee11  N__29 N__18 N__33 Subst="MSub1" W1=w2 mm W2=w2 mm W3=w1 mm 
+MTEE_ADS:Tee12  N__26 N__19 N__21 Subst="MSub1" W1=w2 mm W2=w2 mm W3=w1 mm 
+MTEE_ADS:Tee13  N__27 N__25 N__30 Subst="MSub1" W1=w2 mm W2=w2 mm W3=w1 mm 
+MSOBND:Bend18  N__42 N__46 Subst="MSub1" W=w1 mm 
+MLIN2:TL35  N__17 N__34 Subst="MSub1" W=w1 mm L=1.2*L1 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MSOBND:Bend17  N__45 N__47 Subst="MSub1" W=w1 mm 
+MLIN2:TL29  N__45 N__42 Subst="MSub1" W=w1 mm L=8.5*L1 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL28  N__72 N__43 Subst="MSub1" W=w1 mm L=8.5*L1 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MTEE_ADS:Tee16  N__115 N__8 N__2 Subst="MSub1" W1=w2 mm W2=w2 mm W3=w1 mm 
+MSOBND:Bend16  N__44 N__72 Subst="MSub1" W=w1 mm 
+MSOBND:Bend15  N__119 N__43 Subst="MSub1" W=w1 mm 
+MSOBND:Bend14  N__137 N__66 Subst="MSub1" W=w1 mm 
+MLIN2:TL38  N__35 N__40 Subst="MSub1" W=w1 mm L=1.2*L1 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MSOBND:Bend13  N__57 N__69 Subst="MSub1" W=w1 mm 
+MSOBND:Bend12  N__55 N__68 Subst="MSub1" W=w1 mm 
+MSOBND:Bend9  N__81 N__94 Subst="MSub1" W=w1 mm 
+MLIN2:TL34  N__33 N__39 Subst="MSub1" W=w1 mm L=L1 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MSOBND:Bend6  N__116 N__46 Subst="MSub1" W=w1 mm 
+MSOBND:Bend4  N__119 N__112 Subst="MSub1" W=w1 mm 
+MSOBND:Bend8  N__79 N__93 Subst="MSub1" W=w1 mm 
+MSOBND:Bend7  N__75 N__16 Subst="MSub1" W=w1 mm 
+MLIN2:TL18  N__82 P12 Subst="MSub1" W=w2 mm L=(0.126*L2) mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL17  N__91 N__93 Subst="MSub1" W=w1 mm L=1.28*L1 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL16  N__81 N__75 Subst="MSub1" W=w1 mm L=1.28*L1 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL15  N__86 N__94 Subst="MSub1" W=w1 mm L=(L1/2) mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MSOBND:Bend21  N__34 P3 Subst="MSub1" W=w1 mm 
+MLIN2:TL14  N__80 P13 Subst="MSub1" W=w2 mm L=(0.126*L2) mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL19  N__47 N__71 Subst="MSub1" W=w1 mm L=L1 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MTEE_ADS:Tee8  N__58 N__61 N__49 Subst="MSub1" W1=w2 mm W2=w2 mm W3=w1 mm 
+R:R3  P14 P15 R=100 Ohm Noise=yes 
+MLIN2:TL20  N__49 N__55 Subst="MSub1" W=w1 mm L=(L1/2) mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL21  N__54 N__59 Subst="MSub1" W=w2 mm L=(4.8*L2/10) mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL22  N__63 N__51 Subst="MSub1" W=w2 mm L=(4.8*L2/10) mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL39  N__27 P16 Subst="MSub1" W=w2 mm L=(0.126*L2) mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL27  N__58 P14 Subst="MSub1" W=w2 mm L=(0.126*L2) mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL13  N__89 N__74 Subst="MSub1" W=w2 mm L=(4.8*L2/10) mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL36  N__30 N__23 Subst="MSub1" W=w1 mm L=L1 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+Port:TermG1  P1 0 Num=1 Z=50 Ohm Noise=yes 
+MLIN2:TL41  N__4 P18 Subst="MSub1" W=w2 mm L=(0.126*L2) mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL10  N__44 N__96 Subst="MSub1" W=w1 mm L=L1 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL12  N__78 N__83 Subst="MSub1" W=w2 mm L=(4.8*L2/10) mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MSOBND:Bend23  N__17 N__39 Subst="MSub1" W=w1 mm 
+MLIN2:TL11  N__73 N__79 Subst="MSub1" W=w1 mm L=(L1/2) mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+R:R2  P12 P13 R=100 Ohm Noise=yes 
+MCURVE:Curve4  N__85 N__78 Subst="MSub1" W=w2 mm Angle=180 Radius=R mm 
+MCURVE:Curve3  N__74 N__84 Subst="MSub1" W=w2 mm Angle=180 Radius=R mm 
+MTEE_ADS:Tee7  N__84 N__80 N__86 Subst="MSub1" W1=w2 mm W2=w2 mm W3=w1 mm 
+MTEE_ADS:Tee6  N__83 N__89 N__96 Subst="MSub1" W1=w2 mm W2=w2 mm W3=w1 mm 
+MLIN2:TL43  N__3 N__88 Subst="MSub1" W=w2 mm L=(4.8*L2/10) mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MSOBND:Bend27  N__7 P5 Subst="MSub1" W=w1 mm 
+MTEE_ADS:Tee9  N__59 N__63 N__71 Subst="MSub1" W1=w2 mm W2=w2 mm W3=w1 mm 
+MLIN2:TL33  N__18 P17 Subst="MSub1" W=w2 mm L=(0.126*L2) mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MSOBND:Bend20  N__38 N__120 Subst="MSub1" W=w1 mm 
+MLIN2:TL49  N__1 N__77 Subst="MSub1" W=w1 mm L=L1 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MSOBND:Bend26  N__15 N__16 Subst="MSub1" W=w1 mm 
+MTEE_ADS:Tee10  N__60 N__56 N__62 Subst="MSub1" W1=w2 mm W2=w2 mm W3=w1 mm 
+MTEE_ADS:Tee14  N__4 N__48 N__6 Subst="MSub1" W1=w2 mm W2=w2 mm W3=w1 mm 
+MCURVE:Curve5  N__51 N__60 Subst="MSub1" W=w2 mm Angle=180 Radius=R mm 
+MLIN2:TL23  N__56 P15 Subst="MSub1" W=w2 mm L=(0.126*L2) mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MTEE_ADS:Tee5  N__82 N__85 N__73 Subst="MSub1" W1=w2 mm W2=w2 mm W3=w1 mm 
+MLIN2:TL24  N__62 N__69 Subst="MSub1" W=w1 mm L=(L1/2) mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL25  N__57 N__52 Subst="MSub1" W=w1 mm L=1.28*L1 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL48  N__0 N__9 Subst="MSub1" W=w2 mm L=(4.8*L2/10) mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MCURVE:Curve6  N__61 N__54 Subst="MSub1" W=w2 mm Angle=180 Radius=R mm 
+MLIN2:TL26  N__66 N__68 Subst="MSub1" W=w1 mm L=1.28*L1 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+model MSub1 MSUB H=20.0 mil Er=2.2 Mur=1 Cond=1.0E+50 Hu=3.93701e+34 mil T=0.018 mm TanD=0.0009 Rough=0 mil DielectricLossModel=1 FreqForEpsrTanD=1.0 GHz LowFreqForTanD=1.0 kHz HighFreqForTanD=1.0 THz RoughnessModel=2 
+MLIN2:TL3  N__110 P10 Subst="MSub1" W=w2 mm L=(0.126*L2) mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MCURVE:Curve9  N__9 N__115 Subst="MSub1" W=w2 mm Angle=180 Radius=R mm 
+MSOBND:Bend19  N__31 N__37 Subst="MSub1" W=w1 mm 
+MLIN2:TL32  N__19 N__32 Subst="MSub1" W=w2 mm L=(4.8*L2/10) mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MSOBND:Bend25  N__95 N__1 Subst="MSub1" W=w1 mm 
+MLIN2:TL8  N__112 N__105 Subst="MSub1" W=w1 mm L=1.2*L1 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL47  N__8 P19 Subst="MSub1" W=w2 mm L=(0.126*L2) mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL9  N__98 N__116 Subst="MSub1" W=w1 mm L=1.2*L1 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MCURVE:Curve10  N__48 N__3 Subst="MSub1" W=w2 mm Angle=180 Radius=R mm 
+MSOBND:Bend5  N__114 N__105 Subst="MSub1" W=w1 mm 
+MSOBND:Bend11  N__52 N__53 Subst="MSub1" W=w1 mm 
+MTEE_ADS:Tee3  N__109 N__102 N__111 Subst="MSub1" W1=w2 mm W2=w2 mm W3=w1 mm 
+R:R5  P18 P19 R=100 Ohm Noise=yes 
+R:R1  P10 P11 R=100 Ohm Noise=yes 
+MSOBND:Bend10  N__38 N__91 Subst="MSub1" W=w1 mm 
+MLIN2:TL40  N__15 N__95 Subst="MSub1" W=w1 mm L=2.1*L1 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MCURVE:Curve1  N__106 N__113 Subst="MSub1" W=w2 mm Angle=180 Radius=R mm 
+MSOBND:Bend22  N__23 N__40 Subst="MSub1" W=w1 mm 
+MLIN2:TL46  N__2 N__87 Subst="MSub1" W=w1 mm L=L1 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MCURVE:Curve2  N__100 N__109 Subst="MSub1" W=w2 mm Angle=180 Radius=R mm 
+MTEE_ADS:Tee1  N__108 N__107 N__97 Subst="MSub1" W1=w2 mm W2=w2 mm W3=w1 mm 
+MSOBND:Bend24  P2 N__35 Subst="MSub1" W=w1 mm 
+MLIN2:TL45  N__12 N__7 Subst="MSub1" W=w1 mm L=1.2*L1 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MTEE_ADS:Tee4  N__110 N__106 N__104 Subst="MSub1" W1=w2 mm W2=w2 mm W3=w1 mm 
+MLIN2:TL44  N__6 N__11 Subst="MSub1" W=w1 mm L=L1 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL1  P1 N__97 Subst="MSub1" W=w1 mm L=L1 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL5  N__111 N__99 Subst="MSub1" W=w1 mm L=(L1/2) mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL4  N__102 P11 Subst="MSub1" W=w2 mm L=(0.126*L2) mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL7  N__107 N__100 Subst="MSub1" W=w2 mm L=(4.8*L2/10) mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL6  N__113 N__108 Subst="MSub1" W=w2 mm L=(4.8*L2/10) mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL31  N__31 N__21 Subst="MSub1" W=w1 mm L=L1 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL2  N__104 N__114 Subst="MSub1" W=w1 mm L=(L1/2) mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+S_Param:SP1 CalcS=yes CalcY=no CalcZ=no GroupDelayAperture=1e-4 FreqConversion=no FreqConversionPort=1 StatusLevel=2 CalcNoise=no SortNoise=0 BandwidthForNoise=1.0 Hz DevOpPtLevel=0 SPSS_WSP=yes \
+SweepVar="freq" SweepPlan="SP1_stim" OutputPlan="SP1_Output" 
+
+SweepPlan: SP1_stim Start=10 GHz Stop=11 GHz Step=0.01 GHz 
+
+OutputPlan:SP1_Output \
+      Type="Output" \
+      UseEquationNestLevel=yes \
+      EquationNestLevel=2 \
+      UseSavedEquationNestLevel=yes \
+      SavedEquationNestLevel=2
+
+#load "python","LinearCollapse"
+Component Module="LinearCollapse" Type="ModelExtractor" NetworkRepresentation=2
+MCURVE:Curve7  N__25 N__22 Subst="MSub1" W=w2 mm Angle=180 Radius=R mm 
+MLIN2:TL37  N__22 N__26 Subst="MSub1" W=w2 mm L=(4.8*L2/10) mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+
+w1=1.5752 tune{ 0.7726 to 2.3178 by 0.01 }
+w1_prime=1.5652
+R=1.23 tune{ 0.5 to 1.5 by 0.01 }
+w2=0.9698237 tune{ 0.4362835 to 1.3088505 by 0.01 }
+L1=1.79 tune{ 1.5 to 4.5 by 0.01 }
+L2=3.64 tune{ 1.5 to 4.5 by 0.01 }
+MTEE_ADS:Tee15  N__88 N__0 N__77 Subst="MSub1" W1=w2 mm W2=w2 mm W3=w1 mm 
+MSOBND:Bend2  N__98 N__99 Subst="MSub1" W=w1 mm 
+MSOBND:Bend28  N__11 N__5 Subst="MSub1" W=w1 mm 
+MSOBND:Bend29  N__12 N__87 Subst="MSub1" W=w1 mm 
+MSOBND:Bend30  P4 N__10 Subst="MSub1" W=w1 mm 
+MTEE_ADS:Tee17  N__140 N__126 N__132 Subst="MSub1" W1=w2 mm W2=w2 mm W3=w1 mm 
+MTEE_ADS:Tee18  N__142 N__134 N__138 Subst="MSub1" W1=w2 mm W2=w2 mm W3=w1 mm 
+MTEE_ADS:Tee19  N__130 N__133 N__128 Subst="MSub1" W1=w2 mm W2=w2 mm W3=w1 mm 
+MCURVE:Curve11  N__125 N__140 Subst="MSub1" W=w2 mm Angle=180 Radius=R mm 
+MCURVE:Curve12  N__133 N__131 Subst="MSub1" W=w2 mm Angle=180 Radius=R mm 
+R:R6  P20 P21 R=100 Ohm Noise=yes 
+MLIN2:TL50  N__130 P20 Subst="MSub1" W=w2 mm L=(0.126*L2) mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL51  N__122 N__129 Subst="MSub1" W=w1 mm L=1.2*L1 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL52  N__131 N__142 Subst="MSub1" W=w2 mm L=(4.8*L2/10) mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL53  N__128 N__103 Subst="MSub1" W=w1 mm L=L1 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL54  N__28 N__127 Subst="MSub1" W=w1 mm L=1.2*L1 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL55  N__132 N__139 Subst="MSub1" W=w1 mm L=L1 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL56  N__126 P21 Subst="MSub1" W=w2 mm L=(0.126*L2) mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL57  N__134 N__125 Subst="MSub1" W=w2 mm L=(4.8*L2/10) mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL58  N__123 N__138 Subst="MSub1" W=w1 mm L=L1 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL59  N__124 N__135 Subst="MSub1" W=w1 mm L=2.1*L1 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MSOBND:Bend31  N__123 N__124 Subst="MSub1" W=w1 mm 
+MSOBND:Bend32  N__137 N__135 Subst="MSub1" W=w1 mm 
+MSOBND:Bend33  N__127 P7 Subst="MSub1" W=w1 mm 
+MSOBND:Bend34  N__103 N__129 Subst="MSub1" W=w1 mm 
+MSOBND:Bend35  N__28 N__139 Subst="MSub1" W=w1 mm 
+MSOBND:Bend36  P6 N__122 Subst="MSub1" W=w1 mm 
+MLIN2:TL60  N__158 N__145 Subst="MSub1" W=w1 mm L=1.2*L1 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MSOBND:Bend37  P8 N__158 Subst="MSub1" W=w1 mm 
+MTEE_ADS:Tee20  N__156 N__153 N__155 Subst="MSub1" W1=w2 mm W2=w2 mm W3=w1 mm 
+MTEE_ADS:Tee21  N__148 N__163 N__162 Subst="MSub1" W1=w2 mm W2=w2 mm W3=w1 mm 
+MTEE_ADS:Tee22  N__154 N__151 N__164 Subst="MSub1" W1=w2 mm W2=w2 mm W3=w1 mm 
+MCURVE:Curve13  N__153 N__160 Subst="MSub1" W=w2 mm Angle=180 Radius=R mm 
+MCURVE:Curve14  N__150 N__154 Subst="MSub1" W=w2 mm Angle=180 Radius=R mm 
+R:R7  P22 P23 R=100 Ohm Noise=yes 
+MLIN2:TL61  N__164 N__149 Subst="MSub1" W=w1 mm L=L1 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL62  N__166 N__146 Subst="MSub1" W=w1 mm L=1.2*L1 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL63  N__151 P23 Subst="MSub1" W=w2 mm L=(0.126*L2) mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL64  N__163 N__150 Subst="MSub1" W=w2 mm L=(4.8*L2/10) mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL65  N__155 N__157 Subst="MSub1" W=w1 mm L=L1 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL66  N__144 N__143 Subst="MSub1" W=w1 mm L=2.1*L1 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL67  N__160 N__148 Subst="MSub1" W=w2 mm L=(4.8*L2/10) mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL68  N__156 P22 Subst="MSub1" W=w2 mm L=(0.126*L2) mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL69  N__147 N__162 Subst="MSub1" W=w1 mm L=L1 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MSOBND:Bend38  N__146 P9 Subst="MSub1" W=w1 mm 
+MSOBND:Bend39  N__166 N__149 Subst="MSub1" W=w1 mm 
+MSOBND:Bend40  N__157 N__145 Subst="MSub1" W=w1 mm 
+MSOBND:Bend41  N__144 N__53 Subst="MSub1" W=w1 mm 
+MSOBND:Bend42  N__143 N__147 Subst="MSub1" W=w1 mm 
+Port:TermG2  P2 0 Num=2 Z=50 Ohm Noise=yes 
+Port:TermG3  P3 0 Num=3 Z=50 Ohm Noise=yes 
+Port:TermG4  P4 0 Num=4 Z=50 Ohm Noise=yes 
+Port:TermG5  P5 0 Num=5 Z=50 Ohm Noise=yes 
+Port:TermG6  P6 0 Num=6 Z=50 Ohm Noise=yes 
+Port:TermG7  P7 0 Num=7 Z=50 Ohm Noise=yes 
+Port:TermG8  P8 0 Num=8 Z=50 Ohm Noise=yes 
+Port:TermG9  P9 0 Num=9 Z=50 Ohm Noise=yes 
