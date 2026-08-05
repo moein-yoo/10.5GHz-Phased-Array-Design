@@ -27,7 +27,7 @@ Phased array antennas are the backbone of modern radar systems and 5G/6G Massive
 
 | Beam Steering (45° Scan) | Active Return Loss (8 Ports) | 1-to-8 Feed Network Layout |
 | :---: | :---: | :---: |
-| <img src="Images/Antenna_8_array_3Dgain_45.png" width="260"> | <img src="Images/Antenna_8_array_Sii_2.jpg" width="260"> | <img src="Images/1b2.png" width="260"> |
+| <img src="Images/Antenna_8_array_3Dgain_45.png" width="260"> | <img src="Images/Antenna_8_array_Sii.png" width="260"> | <img src="Images/1b2.png" width="260"> |
 
 * **Left:** 3D Radiation pattern showing successful electronic beam steering at 45° phase shift.
 * **Middle:** Active $S_{ii}$ parameters demonstrating stable impedance matching across all 8 ports despite mutual coupling.
