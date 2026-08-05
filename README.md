@@ -61,6 +61,6 @@ For an in-depth explanation of mathematical calculations, theoretical proofs (in
 
 ## 👥 Authors
 * **Moein Yousefinia** 
-* **Amin Bohtoei** 
+* **Amin Behtoei** 
 
 *Sharif University of Technology - Electromagnetics Simulation Laboratory (Spring 2026)*
