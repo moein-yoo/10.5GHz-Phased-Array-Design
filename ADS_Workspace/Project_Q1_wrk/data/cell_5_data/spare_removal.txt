@@ -1,0 +1,36 @@
+(nil
+    spare_node_list(14)
+       (
+            "N__6"
+            "N__8"
+            "N__12"
+            "N__17"
+            "N__21"
+            "N__22"
+            "N__26"
+            "N__27"
+            "N__31"
+            "N__34"
+            "N__49"
+            "N__55"
+            "N__56"
+            "N__59"
+        )
+    spare_inst_list(14)
+       (
+            "X1.ShortSN4_1"
+            "X1.ShortSP4_1"
+            "X2.ShortSN4_1"
+            "X2.ShortSP4_1"
+            "X3.ShortSN4_1"
+            "X3.ShortSP4_1"
+            "X4.ShortSN4_1"
+            "X4.ShortSP4_1"
+            "X5.ShortSN4_1"
+            "X5.ShortSP4_1"
+            "X6.ShortSN4_1"
+            "X6.ShortSP4_1"
+            "X7.ShortSN4_1"
+            "X7.ShortSP4_1"
+        )
+)

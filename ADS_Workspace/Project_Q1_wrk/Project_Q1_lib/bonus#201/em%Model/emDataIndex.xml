@@ -1,0 +1,33 @@
+<emDataViewDatabaseIndex>
+  <version major="1" minor="1"/>
+  <emDatabase>
+    <ParameterNames>
+      <parameterName>w1_1</parameterName>
+      <parameterName>w2_1</parameterName>
+      <parameterName>L1_1</parameterName>
+      <parameterName>L2_1</parameterName>
+      <parameterName>R1_1</parameterName>
+    </ParameterNames>
+    <databaseItems>
+      <databaseItem name="data.000" index="0">
+        <parameterValues>
+          <value>1.1552 mm</value>
+          <value>0.9598237 mm</value>
+          <value>1.8 mm</value>
+          <value>3.64 mm</value>
+          <value>1.22 mm</value>
+        </parameterValues>
+        <fileNames>
+          <name>data.000.sio</name>
+          <name>data.000.sam</name>
+          <name>data.000.log.zip</name>
+        </fileNames>
+        <originalFileNames>
+          <name>proj.sio</name>
+          <name>proj.sam</name>
+          <name>proj.log.zip</name>
+        </originalFileNames>
+      </databaseItem>
+    </databaseItems>
+  </emDatabase>
+</emDataViewDatabaseIndex>

@@ -1,0 +1,17 @@
+
+hpeesofsim (*) 610.shp Aug 20 2024, MINT version 5
+    (64-bit windows built: Tue Aug 20, 2024 21:40:41 +0000)
+
+
+***** Simulation started at Mon Aug  3 20:32:04 2026
+      Running on host: "DESKTOP-HPRSNA5"
+      In Directory: "F:\Darsi\EM Lab\Project_Q1_wrk\data"
+      Process ID: 15860
+
+
+SP SP1[1] <Project_Q1_lib:cell_4:schematic>   freq=(9.5 GHz->11.5 GHz)
+
+
+Resource usage:
+  Total stopwatch time     =     0.62 seconds.
+

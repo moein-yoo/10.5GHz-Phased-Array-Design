@@ -1,0 +1,6 @@
+create_item("bonus 1","bonus 1","X",16,-1,NULL,"Component Parameters",NULL,"%43?global %;%d:%t %# %44?0%:%31?%C%:_net%c%;%;%e %b%r%8?%29?%:%30?%p %:%k%?[%1i]%;=%p %;%;%;%e%e","bonus 1","%t%b%r%38?%:\n%30?%s%:%k%?[%1i]%;=%s%;%;%e%e%;","",3,NULL,0,
+create_parm("w1_1","Subnetwork 1.1552 mm",66560,"StdFormSet",5,prm("StdForm","1.1552 mm")),
+create_parm("w2_1","Subnetwork 0.9598237 mm",66560,"StdFormSet",5,prm("StdForm","0.9598237 mm")),
+create_parm("L1_1","Subnetwork 1.8 mm",66560,"StdFormSet",5,prm("StdForm","1.8 mm")),
+create_parm("L2_1","Subnetwork 3.64 mm",66560,"StdFormSet",5,prm("StdForm","3.64 mm")),
+create_parm("R1_1","Subnetwork 1.22 mm",66560,"StdFormSet",5,prm("StdForm","1.22 mm")));

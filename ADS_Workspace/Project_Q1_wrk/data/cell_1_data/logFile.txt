@@ -1,0 +1,49 @@
+
+hpeesofsim (*) 610.shp Aug 20 2024, MINT version 5
+    (64-bit windows built: Tue Aug 20, 2024 21:40:41 +0000)
+
+
+***** Simulation started at Tue Aug  4 22:03:25 2026
+      Running on host: "DESKTOP-HPRSNA5"
+      In Directory: "F:\Darsi\EM Lab\Project_Q1_wrk\data"
+      Process ID: 21948
+
+
+SP SP1[1] <Project_Q1_lib:cell_1:schematic>   freq=(10 GHz->11 GHz)
+Warning detected by hpeesofsim during SP analysis `SP1'.
+    Parameter(s) outside valid range in MSOBND instance `Bend4':
+      Er < 2.5.
+
+Warning detected by hpeesofsim during SP analysis `SP1'.
+    Parameter(s) outside valid range in MSOBND instance `Bend4':
+      W > 2.75*H.
+
+Warning detected by hpeesofsim during SP analysis `SP1'.
+    Parameter(s) outside valid range in MSOBND instance `Bend3':
+      Er < 2.5.
+
+Warning detected by hpeesofsim during SP analysis `SP1'.
+    Parameter(s) outside valid range in MSOBND instance `Bend3':
+      W > 2.75*H.
+
+Warning detected by hpeesofsim during SP analysis `SP1'.
+    Parameter(s) outside valid range in MSOBND instance `Bend1':
+      Er < 2.5.
+
+Warning detected by hpeesofsim during SP analysis `SP1'.
+    Parameter(s) outside valid range in MSOBND instance `Bend1':
+      W > 2.75*H.
+
+Warning detected by hpeesofsim during SP analysis `SP1'.
+    Parameter(s) outside valid range in MSOBND instance `Bend2':
+      Er < 2.5.
+
+Warning detected by hpeesofsim during SP analysis `SP1'.
+    Parameter(s) outside valid range in MSOBND instance `Bend2':
+      W > 2.75*H.
+
+
+
+Resource usage:
+  Total stopwatch time     =     1.70 seconds.
+

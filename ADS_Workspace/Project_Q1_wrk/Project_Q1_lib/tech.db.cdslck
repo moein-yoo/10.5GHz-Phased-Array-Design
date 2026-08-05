@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      Lenovo
+HostName                       DESKTOP-HPRSNA5
+ProcessIdentifier              12992
+ProcessCreationTime_UTC        1785139303
+ProcessCreationTime_Readable   Mon Jul 27 11:31:43 2026 Iran Standard Time
+AppIdentifier                  OA File System Design Manager
+OSType                         win32
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         F:\Darsi\EM Lab\Project_Q1_wrk\Project_Q1_lib\tech.db.cdslck
+TimeEditLocked                 Mon Jul 27 11:32:18 2026 Iran Standard Time
